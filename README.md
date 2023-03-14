@@ -15,16 +15,17 @@ Data Preprocessing.
 Feature Engineering.
 Feature Selection (SelectKBest)
 Fit into Algorithm (ML Algorithm)
-Hyper Parameter Tunning (RandomSearchCV)
+Hyper Parameter Tunning
+
 
 Packages Used:
 This project requires Python and the following packages are in below:
-
 Numpy
 Pandas
 Matplotlib
 Seaborn
 Scikit-learn
+
 
 Objective:
 Predict the customer likely to be Churn or not by using different ML algorithm Classifier and my target is to find customer to be Churn or Not.
